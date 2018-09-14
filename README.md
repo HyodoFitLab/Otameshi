@@ -1,0 +1,2 @@
+# Otameshi
+GitHubの参考書が届いたので参考にしながらGitHubを使いこなそう
